@@ -1,0 +1,4 @@
+- 👋 ola meu nome e fxrekkon
+- 👀 meu email de contato e henrique.santiago.silva@escolas.pr.gov.br
+- 🌱 eu estou enteressado em aprender a progamar novas linguas
+- 💞️ eu estou apredendo a progamar frecentemente a linguagem javascript e scratch
